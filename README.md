@@ -12,7 +12,7 @@ This Python script detects faces in a live video stream using OpenCV and recogni
 
   ## Usage
 
-1. Add images of the persons you want to recognize in the imgatt directory.
+1. Add images of the persons you want to recognize in the imageGallery directory.
 2. Run the Python script
 3. Hold the faces in front of your webcam.
 4. The script will recognize the faces and mark their attendance in a CSV file (attendance.csv).
