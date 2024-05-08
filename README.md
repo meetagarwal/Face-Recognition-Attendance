@@ -20,7 +20,8 @@ This Python script detects faces in a live video stream using OpenCV and recogni
 
 ## Result
 
-https://github.com/meetagarwal/Face-Recognition-Attendance/assets/92011572/d12e6b11-4032-45ef-9569-709693475fb4
+
+https://github.com/meetagarwal/Face-Recognition-Attendance/assets/92011572/568baa0e-2255-48e0-af29-e547bfb99130
 
 
 ## Contributing
